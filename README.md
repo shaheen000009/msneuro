@@ -1,4 +1,4 @@
-# 🧠 MSNeuro - Interactive Neuroscience Hub ⚡
+# MSNeuro - Interactive Neuroscience Hub
 
 > **A vibrant, animated platform for neuroscience education, EEG data processing, and brain-computer interface exploration**
 
@@ -6,13 +6,13 @@
 [![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js%2015-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Styled with Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-## 🌟 **Live Demo**
+##  **Live Demo**
 
 **Visit:** [msneuro.vercel.app](https://msneuro.vercel.app)
 
 ---
 
-## 🎯 **What is MSNeuro?**
+## **What is MSNeuro?**
 
 MSNeuro is a **comprehensive, interactive neuroscience education platform** that combines cutting-edge web technology with brain science. It's designed for students, researchers, and enthusiasts who want to explore:
 

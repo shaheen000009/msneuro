@@ -1,38 +1,54 @@
-export default function Header() {
-  return (
-    <header className="container mx-auto px-6 py-16 relative overflow-hidden">
-      {/* Floating EEG Wave Animation */}
-      <div className="absolute inset-0 opacity-20">
-        <div className="flex space-x-2 animate-bounce">
-          {[...Array(20)].map((_, i) => (
-            <div 
-              key={i}
-              className={`w-2 bg-yellow-400 animate-pulse`}
-              style={{
-                height: `${Math.random() * 60 + 20}px`,
-                animationDelay: `${i * 0.1}s`
-              }}
-            ></div>
-          ))}
-        </div>
-      </div>
-      
-      <div className="text-center relative z-10">
-        <h1 className="text-7xl font-bold text-white mb-4 animate-bounce">
-          🧠 MS<span className="text-yellow-400 animate-pulse">Neuro</span> ⚡
-        </h1>
-        <p className="text-2xl text-cyan-100 mb-8 max-w-4xl mx-auto animate-fade-in">
-          🔬 Interactive Neuroscience Hub with Real-Time EEG Data Processing & Brain Visualization 🌈
-        </p>
-        <div className="flex justify-center space-x-6 animate-pulse">
-          <button className="bg-gradient-to-r from-pink-500 to-red-500 text-white px-8 py-4 rounded-full hover:scale-110 transform transition duration-300 shadow-2xl">
-            🚀 Explore Brain Data
-          </button>
-          <button className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-8 py-4 rounded-full hover:scale-110 transform transition duration-300 shadow-2xl">
-            🎯 Process EEG Signals
-          </button>
-        </div>
-      </div>
-    </header>
-  );
-}
+import React from 'react';
+
+// This is a placeholder for the Next.js Link component.
+// In your actual app, you would use `import Link from 'next/link';`
+const Link = ({ href, children, className }) => (
+    <a href={href} className={className}>
+        {children}
+    </a>
+);
+
+const Header = () => {
+    // A simple state for the mobile menu, you might manage this globally
+    const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
+
+    return (
+        <header className="bg-gray-900/80 backdrop-blur-sm sticky top-0 z-50">
+            <div className="container mx-auto px-6 py-4">
+                <div className="flex items-center justify-between">
+                    <div className="text-2xl font-bold text-white">
+                        <Link href="/">MSNeuro</Link>
+                    </div>
+                    {/* Desktop Navigation */}
+                    <nav className="hidden md:flex items-center space-x-6">
+                        <Link href="/fundamentals" className="text-gray-300 hover:text-white transition">Fundamentals</Link>
+                        <Link href="/preprocessing" className="text-gray-300 hover:text-white transition">Data Preprocessing</Link>
+                        <Link href="/resources" className="text-gray-300 hover:text-white transition">Resources</Link>
+                        <Link href="/opportunities" className="text-gray-300 hover:text-white transition">Opportunities</Link>
+                        <Link href="/forum" className="text-gray-300 hover:text-white transition">Forum</Link>
+                        <Link href="/datasets" className="text-gray-300 hover:text-white transition">Public Datasets</Link>
+                    </nav>
+                    {/* Mobile Menu Button */}
+                    <div className="md:hidden">
+                        <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="text-white focus:outline-none">
+                            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            {/* Mobile Menu */}
+            {mobileMenuOpen && (
+                 <div className="md:hidden">
+                    <Link href="/fundamentals" onClick={() => setMobileMenuOpen(false)} className="block py-2 px-6 text-sm text-gray-300 hover:bg-gray-800">Fundamentals</Link>
+                    <Link href="/preprocessing" onClick={() => setMobileMenuOpen(false)} className="block py-2 px-6 text-sm text-gray-300 hover:bg-gray-800">Data Preprocessing</Link>
+                    <Link href="/resources" onClick={() => setMobileMenuOpen(false)} className="block py-2 px-6 text-sm text-gray-300 hover:bg-gray-800">Resources</Link>
+                    <Link href="/opportunities" onClick={() => setMobileMenuOpen(false)} className="block py-2 px-6 text-sm text-gray-300 hover:bg-gray-800">Opportunities</Link>
+                    <Link href="/forum" onClick={() => setMobileMenuOpen(false)} className="block py-2 px-6 text-sm text-gray-300 hover:bg-gray-800">Forum</Link>
+                    <Link href="/datasets" onClick={() => setMobileMenuOpen(false)} className="block py-2 px-6 text-sm text-gray-300 hover:bg-gray-800">Public Datasets</Link>
+                </div>
+            )}
+        </header>
+    );
+};
+
+export default Header;

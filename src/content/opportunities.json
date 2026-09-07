@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:38:11.260Z",
+  "generatedAt": "2026-09-07T17:16:56.146Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,45 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGFydHNwYWNlLWdtYmgvYWktZGV2ZWxvcGVyLW51cmVtYmVyZy00NTg3MTF8YWkgZGV2ZWxvcGVyIChtL3cvZCl8cGFydHNwYWNlIGdtYmg",
+      "title": "AI Developer (m/w/d)",
+      "company": "PartSpace GmbH",
+      "location": "Nuremberg",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-07T13:00:52.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/partspace-gmbh/ai-developer-nuremberg-458711"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256by9kaXJlY3Rvci1vZi1wcm9kdWN0LWRlc2lnbi1jYXJkaWZmLTgwMjE3fGRpcmVjdG9yIG9mIHByb2R1Y3QgZGVzaWdufG1vbnpv",
+      "title": "Director of Product Design",
+      "company": "Monzo",
+      "location": "Cardiff",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-07T12:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/director-of-product-design-cardiff-80217"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcXBsaXgvd2Vya3N0dWRlbnQtcGVvcGxlLW9yZ2FuaXphdGlvbmFsLWN1bHR1cmUtcG9jLW11bmNoZW4tMzY4OTQ4fHdlcmtzdHVkZW50IChtL3cvZCkgfCBwZW9wbGUgJiBvcmdhbml6YXRpb25hbCBjdWx0dXJlIChwb2MpfHFwbGl4",
+      "title": "Werkstudent (m/w/d) | People & Organizational Culture (POC)",
+      "company": "Qplix",
+      "location": "München",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-07T11:09:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/qplix/werkstudent-people-organizational-culture-poc-munchen-368948"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL3Nlbmlvci1zb2x1dGlvbi1jb25zdWx0YW50LXBhcmlzLTQ0MDQyOXxzZW5pb3Igc29sdXRpb24gY29uc3VsdGFudHxhbmFwbGFu",
       "title": "Senior Solution Consultant",
@@ -320,19 +359,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/whitecircle/research-scientist-ai-behaviours-paris-183446"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9tYXJnby9sZWFkLWRhdGEtc2NpZW50aXN0LWlhLWdlbmFpLXByYWN0aWNlLWlhLW1hcmdvLXBhcmlzLTM2NDkxNnxsZWFkIGRhdGEgc2NpZW50aXN0IOKAkyBpYSAmIGdlbmFpIHwgcHJhY3RpY2UgaWEgbWFyZ298bWFyZ28",
-      "title": "Lead Data Scientist – IA & GenAI | Practice IA MARGO",
-      "company": "MARGO",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T07:04:58.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/lead-data-scientist-ia-genai-practice-ia-margo-paris-364916"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1ub3J0aGVybi1ldXJvcGUtbG9uZG9uLTQ3NTE5MXxhY2NvdW50IGV4ZWN1dGl2ZSwgZW50ZXJwcmlzZSwgbm9ydGhlcm4gZXVyb3BlfHdhdGVyc2hlZA",
       "title": "Account executive, enterprise, northern Europe",
       "company": "Watershed",
@@ -424,6 +450,19 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-402117"
     },
     {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItdHJhbnNhY3Rpb24tcHJvY2Vzc2luZy1qYXZhLWF3cy1keW5hbW9kYi1iZXJsaW4tMjAyMjM1fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIHRyYW5zYWN0aW9uIHByb2Nlc3NpbmcgKGphdmEsIGF3cywgZHluYW1vZGIpfHBwcm8",
+      "title": "Senior Software Engineer - Transaction Processing (Java, AWS, DynamoDB)",
+      "company": "Ppro",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-05T20:04:51.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-transaction-processing-java-aws-dynamodb-berlin-202235"
+    },
+    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yb2t1L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWNhbWJyaWRnZS0xNjk2MDh8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCBmdWxsIHN0YWNrfHJva3U",
       "title": "Senior Software Engineer, Full Stack",
       "company": "Roku",
@@ -437,58 +476,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-full-stack-cambridge-169608"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc2VyZWFjdC1nbWJoL3Byb2R1Y3QtbWFuYWdlci1pbnRlcm4tc3R1dHRnYXJ0LTIzMjgxNHxwcm9kdWN0IG1hbmFnZXIgaW50ZXJuIChtL2YvZCl8c2VyZWFjdCBnbWJo",
-      "title": "Product Manager Intern (m/f/d)",
-      "company": "Sereact GmbH",
-      "location": "Stuttgart Schockenriedstr. 17",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T11:40:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-manager-intern-stuttgart-232814"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ3ltb25kby9jaGllZi1tYXJrZXRpbmctb2ZmaWNlci1jbW8tYmVybGluLXN0YW5kYXJkLTM3ODY1M3xjaGllZiBtYXJrZXRpbmcgb2ZmaWNlciAoY21vKSAtIChtL2YvZCl8Z3ltb25kbw",
-      "title": "Chief Marketing Officer (CMO) - (m/f/d)",
-      "company": "Gymondo",
-      "location": "Berlin (Standard)",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T11:09:18.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/gymondo/chief-marketing-officer-cmo-berlin-standard-378653"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdmVudHgtZ21iaC9idXNpbmVzcy1kZXZlbG9wbWVudC1yZXByZXNlbnRhdGl2ZS1iZHItbXVuaWNoLTE4OTA1MHxidXNpbmVzcyBkZXZlbG9wbWVudCByZXByZXNlbnRhdGl2ZSAoYmRyKSAobS93L2QpfHZlbnR4IGdtYmg",
-      "title": "Business Development Representative (BDR) (m/w/d)",
-      "company": "ventx GmbH",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "berufserfahren",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T09:00:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ventx-gmbh/business-development-representative-bdr-munich-189050"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYXRpcmEvZGVwbG95bWVudC1zdHJhdGVnaXN0LW11bmljaC0xNjg5OTd8ZGVwbG95bWVudCBzdHJhdGVnaXN0fGF0aXJh",
-      "title": "Deployment Strategist",
-      "company": "Atira",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T08:40:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/atira/deployment-strategist-munich-168997"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy92b2xlb24vc2VuaW9yLW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItbG9uZG9uLTE3NzAzNHxzZW5pb3IgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlcnx2b2xlb24",
       "title": "Senior Machine Learning Engineer",
       "company": "Voleon",
@@ -500,32 +487,6 @@
       "postedDate": "2026-09-05T06:40:13.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/senior-machine-learning-engineer-london-177034"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY29uc3RydWN0b3IvZnVsbHN0YWNrLWVuZ2luZWVyLXByb3NwZWN0LXVpLXNvbHV0aW9ucy1tdW5pY2gtNDE1MDQzfGZ1bGxzdGFjayBlbmdpbmVlciAtIHByb3NwZWN0IHVpIHNvbHV0aW9uc3xjb25zdHJ1Y3Rvcg",
-      "title": "FullStack Engineer - Prospect UI Solutions",
-      "company": "Constructor",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T05:40:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlaW5lcy1rcmFmdHdlcmstZGUtZ21iaC9zZW5pb3Itc2VvLW1hbmFnZXJpbi1pLXNlby1nZW8tYWktc2VhcmNoLWktZS1jb21tZXJjZS1oeWJyaWQtYWNoaW0tYWNoaW0tYmVpLWJyZW1lbi00Mjg5NzJ8KHNlbmlvcikgc2VvIG1hbmFnZXI6aW4gaSBzZW8sIGdlbyAmIGFpIHNlYXJjaCBpIGUtY29tbWVyY2UsIGh5YnJpZCwgYWNoaW18a2xlaW5lcyBrcmFmdHdlcmsgZGUgZ21iaA",
-      "title": "(Senior) SEO Manager:in I SEO, GEO & AI Search I E-Commerce, hybrid, Achim",
-      "company": "Kleines Kraftwerk DE GmbH",
-      "location": "Achim (bei Bremen)",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T05:09:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/kleines-kraftwerk-de-gmbh/senior-seo-managerin-i-seo-geo-ai-search-i-e-commerce-hybrid-achim-achim-bei-bremen-428972"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9uaWNlL3NvZnR3YXJlLWFyY2hpdGVjdC0zNzcxMDV8c29mdHdhcmUgYXJjaGl0ZWN0fG5pY2U",
@@ -604,45 +565,6 @@
       "postedDate": "2026-09-04T22:55:22.000Z",
       "applyBy": null,
       "url": "https://boards.greenhouse.io/neuralink/jobs/7987219003?gh_jid=7987219003"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS90YWxlbnQtcGFydG5lci1vcGVyYXRpb25zLWxvbmRvbi00NTI3NDl8dGFsZW50IHBhcnRuZXIgLSBvcGVyYXRpb25zfGxlbmRhYmxl",
-      "title": "Talent Partner - Operations",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T21:40:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/talent-partner-operations-london-452749"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS90YWxlbnQtYWNxdWlzaXRpb24tbWFuYWdlci1vcGVyYXRpb25zLWxvbmRvbi00MDc4Mnx0YWxlbnQgYWNxdWlzaXRpb24gbWFuYWdlciAtIG9wZXJhdGlvbnN8bGVuZGFibGU",
-      "title": "Talent Acquisition Manager - Operations",
-      "company": "Lendable",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T21:40:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/talent-acquisition-manager-operations-london-40782"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9sZW5kYWJsZS9maW5hbmNpYWwtY3JpbWUtaW52ZXN0aWdhdG9yLWxvbmRvbi1rZW50LTI2MDczOXxmaW5hbmNpYWwgY3JpbWUgaW52ZXN0aWdhdG9yfGxlbmRhYmxl",
-      "title": "Financial Crime Investigator",
-      "company": "Lendable",
-      "location": "London/Kent",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T21:40:13.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/financial-crime-investigator-london-kent-260739"
     },
     {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTc4OTUyMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBzZWF0dGxlfG5ldXJvcGFjZQ",

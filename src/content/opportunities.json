@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T03:00:13.865Z",
+  "generatedAt": "2026-09-07T11:38:11.260Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -333,32 +333,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/margo/lead-data-scientist-ia-genai-practice-ia-margo-paris-364916"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9tYXJnby9kYXRhLXNjaWVudGlzdC1wcm9qZXRzLXByaWNpbmctc2VnbWVudGF0aW9uLXByYWN0aWNlLWlhLW1hcmdvLXBhcmlzLTMwNzYwM3xkYXRhIHNjaWVudGlzdCB8IHByb2pldHMgcHJpY2luZyAmIHNlZ21lbnRhdGlvbiDigJMgcHJhY3RpY2UgaWEgbWFyZ298bWFyZ28",
-      "title": "Data Scientist | Projets Pricing & Segmentation – Practice IA MARGO",
-      "company": "MARGO",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T07:04:58.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/data-scientist-projets-pricing-segmentation-practice-ia-margo-paris-307603"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9tYXJnby9kYXRhLXNjaWVudGlzdC1wcmFjdGljZS1pYS1jaGV6LW1hcmdvLXByb2pldHMtbWFya2V0aW5nLW9wdGltaXNhdGlvbi1wYXJpcy0zNjE4MDl8ZGF0YSBzY2llbnRpc3Qg4oCTIHByYWN0aWNlIGlhIGNoZXogbWFyZ28gfCBwcm9qZXRzIG1hcmtldGluZyAmIG9wdGltaXNhdGlvbnxtYXJnbw",
-      "title": "Data Scientist – Practice IA chez MARGO | Projets Marketing & Optimisation",
-      "company": "MARGO",
-      "location": "Paris",
-      "workModel": "On-site",
-      "opportunityType": "Contract",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T07:04:58.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/data-scientist-practice-ia-chez-margo-projets-marketing-optimisation-paris-361809"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1ub3J0aGVybi1ldXJvcGUtbG9uZG9uLTQ3NTE5MXxhY2NvdW50IGV4ZWN1dGl2ZSwgZW50ZXJwcmlzZSwgbm9ydGhlcm4gZXVyb3BlfHdhdGVyc2hlZA",
       "title": "Account executive, enterprise, northern Europe",
       "company": "Watershed",
@@ -448,32 +422,6 @@
       "postedDate": "2026-09-05T21:55:06.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-402117"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItdHJhbnNhY3Rpb24tcHJvY2Vzc2luZy1qYXZhLWF3cy1keW5hbW9kYi1iZXJsaW4tMjAyMjM1fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIHRyYW5zYWN0aW9uIHByb2Nlc3NpbmcgKGphdmEsIGF3cywgZHluYW1vZGIpfHBwcm8",
-      "title": "Senior Software Engineer - Transaction Processing (Java, AWS, DynamoDB)",
-      "company": "Ppro",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T20:04:51.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-transaction-processing-java-aws-dynamodb-berlin-202235"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYnVuY2gvc2VuaW9yLXRhbGVudC1hY3F1aXNpdGlvbi1tYW5hZ2VyLWd0bS1vcGVyYXRpb25zLWJlcmxpbi0zODYwNTV8c2VuaW9yIHRhbGVudCBhY3F1aXNpdGlvbiBtYW5hZ2VyIHwgZ3RtICYgb3BlcmF0aW9ucyAoZi9tL2QpfGJ1bmNo",
-      "title": "Senior Talent Acquisition Manager | GTM & Operations (f/m/d)",
-      "company": "bunch",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T14:40:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-talent-acquisition-manager-gtm-operations-berlin-386055"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yb2t1L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWNhbWJyaWRnZS0xNjk2MDh8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCBmdWxsIHN0YWNrfHJva3U",
@@ -632,32 +580,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/remote-technical-support-engineer-241358"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3RhcmsvdGFjdGljYWwtZGF0YS1saW5rLWV4cGVydC1hbGwtZ2VuZGVycy1tdW5pY2gtMjg4MDYxfHRhY3RpY2FsIGRhdGEgbGluayBleHBlcnQgKGFsbCBnZW5kZXJzKXxzdGFyaw",
-      "title": "Tactical Data Link Expert (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T02:09:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/tactical-data-link-expert-all-genders-munich-288061"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3Rhcmsvc2VuaW9yLWFpLXN5c3RlbXMtZW5naW5lZXItcm9ib3RpY3Mtc3dhcm1pbmctYWxsLWdlbmRlcnMtbXVuaWNoLTIyOTA5MnxzZW5pb3IgYWkgc3lzdGVtcyBlbmdpbmVlciDigJMgcm9ib3RpY3Mvc3dhcm1pbmcgKGFsbCBnZW5kZXJzKXxzdGFyaw",
-      "title": "Senior AI Systems Engineer – Robotics/Swarming (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T02:09:08.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-ai-systems-engineer-robotics-swarming-all-genders-munich-229092"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9vZGluL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1sb25kb24tMjI0OTg1fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlcnxvZGlu",
       "title": "Senior Software Engineer",
       "company": "Odin",
@@ -669,32 +591,6 @@
       "postedDate": "2026-09-05T00:40:09.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/senior-software-engineer-london-224985"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGlnaHRzcGVlZGhxL3Nlbmlvci1mcm9udGVuZC1kZXZlbG9wZXItYWxsLWdlbmRlcnMtYmVybGluLTg5OTY1fHNlbmlvciBmcm9udGVuZCBkZXZlbG9wZXIgKGFsbCBnZW5kZXJzKXxsaWdodHNwZWVkaHE",
-      "title": "Senior Frontend Developer (all genders)",
-      "company": "Lightspeedhq",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T23:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/senior-frontend-developer-all-genders-berlin-89965"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZ2VzaXMtbGVpYm5pei1pbnN0aXR1dC1mdXItc296aWFsd2lzc2Vuc2NoYWZ0ZW4vcmVzZWFyY2gtZGF0YS1tYW5hZ2VyLXBvc3Rkb2MtZm9yLW1hcHBpbmctaGFydmVzdGluZy1yZWxhdGlvbnNoaXBzLWt0cy04NC1rb2xuLTQ0OTQ2OXxyZXNlYXJjaCBkYXRhIG1hbmFnZXIgKHBvc3Rkb2MpIGZvciBtYXBwaW5nIGhhcnZlc3RpbmcgcmVsYXRpb25zaGlwcyAoa3RzLTg0KXxnZXNpcyDigJMgbGVpYm5pei1pbnN0aXR1dCBmw7xyIHNvemlhbHdpc3NlbnNjaGFmdGVu",
-      "title": "Research Data Manager (PostDoc) for mapping harvesting relationships (KTS-84)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Köln",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T23:09:56.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/research-data-manager-postdoc-for-mapping-harvesting-relationships-kts-84-koln-449469"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg3MjE5MDAzP2doX2ppZD03OTg3MjE5MDAzfGVtYyBjb21wbGlhbmNlIGVuZ2luZWVyfG5ldXJhbGluaw",
@@ -749,32 +645,6 @@
       "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/financial-crime-investigator-london-kent-260739"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW50ZXJjb20vc3RhZmYtcHJvZHVjdC1lbmdpbmVlci1haS1iZXJsaW4tMTc3MjQ1fHN0YWZmIHByb2R1Y3QgZW5naW5lZXIsIGFpfGludGVyY29t",
-      "title": "Staff Product Engineer, AI",
-      "company": "intercom",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T20:55:46.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercom/staff-product-engineer-ai-berlin-177245"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaW50ZXJjb20vc2VuaW9yLW1hY2hpbmUtbGVhcm5pbmctc2NpZW50aXN0LWJlcmxpbi0xMzc3MjV8c2VuaW9yIG1hY2hpbmUgbGVhcm5pbmcgc2NpZW50aXN0fGludGVyY29t",
-      "title": "Senior Machine Learning Scientist",
-      "company": "intercom",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T20:55:46.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/intercom/senior-machine-learning-scientist-berlin-137725"
-    },
-    {
       "id": "bmV1cm9wYWNlIGNhcmVlcnN8aHR0cHM6Ly93d3cubmV1cm9wYWNlLmNvbS9hYm91dC1uZXVyb3BhY2UvbmV1cm9wYWNlLWNhcmVlcnMvP2doX2ppZD02MTc4OTUyMDA0fGFzc29jaWF0ZSB0aGVyYXB5IGNvbnN1bHRhbnQgLSBzZWF0dGxlfG5ldXJvcGFjZQ",
       "title": "Associate Therapy Consultant - Seattle",
       "company": "NeuroPace",
@@ -786,19 +656,6 @@
       "postedDate": "2026-09-04T20:22:05.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6178952004"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvbGVhc2V0ZXEvc2VuaW9yLWZ1bGwtc3RhY2stZW5naW5lZXItdHlwZXNjcmlwdC1uZXh0anMtMTAwLWx0cS1kZS1iZXJsaW4tNDUyMDc5fHNlbmlvciBmdWxsIHN0YWNrIGVuZ2luZWVyIOKAlCB0eXBlc2NyaXB0IC8gbmV4dC5qcyAoMTAwJSwgbS9mL2QpfGxlYXNldGVx",
-      "title": "Senior Full Stack Engineer — TypeScript / Next.js (100%, m/f/d)",
-      "company": "LeaseTeq",
-      "location": "LTQ-DE | Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-04T20:09:31.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/leaseteq/senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-452079"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg0MDExMDAzP2doX2ppZD03OTg0MDExMDAzfGRpbWVuc2lvbmFsIHF1YWxpdHkgZW5naW5lZXIsIG1ldHJvbG9neXxuZXVyYWxpbms",

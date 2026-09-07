@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:16:56.146Z",
+  "generatedAt": "2026-09-07T21:08:21.444Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvanVuaW5pLWdtYmgvc29mdHdhcmUtZW5naW5lZXItZm91bmRpbmctdGVhbS1iZXJsaW4tNDU0Nzk1fHNvZnR3YXJlIGVuZ2luZWVyIChmb3VuZGluZyB0ZWFtKXxqdW5pbmkgZ21iaA",
+      "title": "Software Engineer (Founding Team)",
+      "company": "Junini GmbH",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-07T17:00:28.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/junini-gmbh/software-engineer-founding-team-berlin-454795"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcGFydHNwYWNlLWdtYmgvYWktZGV2ZWxvcGVyLW51cmVtYmVyZy00NTg3MTF8YWkgZGV2ZWxvcGVyIChtL3cvZCl8cGFydHNwYWNlIGdtYmg",
       "title": "AI Developer (m/w/d)",
@@ -448,19 +461,6 @@
       "postedDate": "2026-09-05T21:55:06.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-402117"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvcHByby9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItdHJhbnNhY3Rpb24tcHJvY2Vzc2luZy1qYXZhLWF3cy1keW5hbW9kYi1iZXJsaW4tMjAyMjM1fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAtIHRyYW5zYWN0aW9uIHByb2Nlc3NpbmcgKGphdmEsIGF3cywgZHluYW1vZGIpfHBwcm8",
-      "title": "Senior Software Engineer - Transaction Processing (Java, AWS, DynamoDB)",
-      "company": "Ppro",
-      "location": "Berlin",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T20:04:51.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-transaction-processing-java-aws-dynamodb-berlin-202235"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yb2t1L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWNhbWJyaWRnZS0xNjk2MDh8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCBmdWxsIHN0YWNrfHJva3U",

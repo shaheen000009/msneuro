@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:01:03.325Z",
+  "generatedAt": "2026-09-08T20:44:53.712Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,71 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9wbm8taW5ub3ZhdGlvbi9zZW5pb3ItaW5ub3ZhdGlvbi1jb25zdWx0YW50LWV1LXByb2plY3RzLWZyYW5jZS05MTEwNHxzZW5pb3IgaW5ub3ZhdGlvbiBjb25zdWx0YW50IC0gZXUgcHJvamVjdHN8cG5vIGlubm92YXRpb24",
+      "title": "Senior Innovation Consultant - EU Projects",
+      "company": "PNO Innovation",
+      "location": "France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T19:09:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/pno-innovation/senior-innovation-consultant-eu-projects-france-91104"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg5MzM5MDAzP2doX2ppZD03OTg5MzM5MDAzfGNvbnRyYWN0cyBtYW5hZ2VyfG5ldXJhbGluaw",
+      "title": "Contracts Manager",
+      "company": "Neuralink",
+      "location": "South San Francisco, California, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-09-08T19:06:44.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7989339003?gh_jid=7989339003"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9qZXRicmFpbnMvc3RhZmYtbGVhZC1zb2Z0d2FyZS1kZXZlbG9wZXItYWktYWdlbnRzLWludGVncmF0aW9ucy1sb25kb24tMTA0NDAzfHN0YWZmL2xlYWQgc29mdHdhcmUgZGV2ZWxvcGVyIChhaSBhZ2VudHMgJiBpbnRlZ3JhdGlvbnMpfGpldGJyYWlucw",
+      "title": "Staff/Lead Software Developer (AI Agents & Integrations)",
+      "company": "jetbrains",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T18:55:15.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/staff-lead-software-developer-ai-agents-integrations-london-104403"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL2NvbGxlY3Rpb24tb3BlcmF0aW9ucy1wcm9jZXNzLW1hbmFnZXItYWxsLWdlbmRlcnMtbXVuY2hlbi00MTEzMzN8Y29sbGVjdGlvbiBvcGVyYXRpb25zICYgcHJvY2VzcyBtYW5hZ2VyIChhbGwgZ2VuZGVycyl8d2Vtb2xv",
+      "title": "Collection Operations & Process Manager (all genders)",
+      "company": "Wemolo",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T17:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/collection-operations-process-manager-all-genders-munchen-411333"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvd2Vtb2xvL3Nlbmlvci1jb2xsZWN0aW9uLW9wZXJhdGlvbnMtcHJvY2Vzcy1tYW5hZ2VyLWFsbC1nZW5kZXJzLW11bmNoZW4tMzMwMTg4fHNlbmlvciBjb2xsZWN0aW9uIG9wZXJhdGlvbnMgJiBwcm9jZXNzIG1hbmFnZXIgKGFsbCBnZW5kZXJzKXx3ZW1vbG8",
+      "title": "Senior Collection Operations & Process Manager (all genders)",
+      "company": "Wemolo",
+      "location": "Munich",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T17:40:13.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/senior-collection-operations-process-manager-all-genders-munchen-330188"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1jb21tdW5pdHktbWFuYWdlbWVudC1oYW1idXJnLTI0NzY5M3x3ZXJrc3R1ZGVudDppbiBjb21tdW5pdHkgbWFuYWdlbWVudCAobS93L2QpfDFrb21tYTXLmg",
       "title": "Werkstudent:in Community Management (m/w/d)",
@@ -593,32 +658,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-billing-manager-fitme-281438"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9naXNtYXJ0L3JlbW90ZS1jcmVhdGl2ZS1tYXJrZXRpbmctbWFuYWdlci1maXRtZS0yODI4NzN8Y3JlYXRpdmUgbWFya2V0aW5nIG1hbmFnZXIgKGZpdG1lKXxnaXNtYXJ0",
-      "title": "Creative Marketing Manager (FitMe)",
-      "company": "Gismart",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T10:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-marketing-manager-fitme-282873"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9lbGV2ZS10YWxlbnQvcmVtb3RlLWtuaXQtbGVhZC1wcm9kdWN0LW1hbmFnZXItMzA4ODg4fGtuaXQgLSBsZWFkIHByb2R1Y3QgbWFuYWdlcnxlbGV2ZSB0YWxlbnQ",
-      "title": "Knit - Lead Product Manager",
-      "company": "Eleve Talent",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T10:40:10.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-lead-product-manager-308888"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL2Fzc29jaWF0ZS1iYWNrZW5kLXNvZnR3YXJlLWVuZ2luZWVyLXB5dGhvbi1tYW5jaGVzdGVyLTQzMDE0N3xhc3NvY2lhdGUgYmFja2VuZCBzb2Z0d2FyZSBlbmdpbmVlciAocHl0aG9uKXxhbmFwbGFu",
       "title": "Associate Backend Software Engineer (Python)",
       "company": "Anaplan",
@@ -630,45 +669,6 @@
       "postedDate": "2026-09-06T09:55:04.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy93YXRlcnNoZWQvYWNjb3VudC1leGVjdXRpdmUtZW50ZXJwcmlzZS1ub3J0aGVybi1ldXJvcGUtbG9uZG9uLTQ3NTE5MXxhY2NvdW50IGV4ZWN1dGl2ZSwgZW50ZXJwcmlzZSwgbm9ydGhlcm4gZXVyb3BlfHdhdGVyc2hlZA",
-      "title": "Account executive, enterprise, northern Europe",
-      "company": "Watershed",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T03:40:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/account-executive-enterprise-northern-europe-london-475191"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9wZXJrL3Nlbmlvci1mcm9udGVuZC1lbmdpbmVlci1sb25kb24tNDIzMDgxfHNlbmlvciBmcm9udGVuZCBlbmdpbmVlciAtIGxvbmRvbnxwZXJr",
-      "title": "Senior Frontend Engineer - London",
-      "company": "Perk",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T03:40:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9ldmVyd2F5L3Nlbmlvci1wcm9kdWN0LWRlc2lnbmVyLTIxMzU0fHNlbmlvciBwcm9kdWN0IGRlc2lnbmVyfGV2ZXJ3YXk",
-      "title": "Senior Product Designer",
-      "company": "Everway",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T21:55:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/senior-product-designer-21354"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg3MjE5MDAzP2doX2ppZD03OTg3MjE5MDAzfGVtYyBjb21wbGlhbmNlIGVuZ2luZWVyfG5ldXJhbGluaw",

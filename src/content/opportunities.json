@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:37:18.380Z",
+  "generatedAt": "2026-09-08T16:01:03.325Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,136 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvMWtvbW1hNTAvd2Vya3N0dWRlbnRpbi1jb21tdW5pdHktbWFuYWdlbWVudC1oYW1idXJnLTI0NzY5M3x3ZXJrc3R1ZGVudDppbiBjb21tdW5pdHkgbWFuYWdlbWVudCAobS93L2QpfDFrb21tYTXLmg",
+      "title": "Werkstudent:in Community Management (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "workModel": "On-site",
+      "opportunityType": "Working student, berufserfahren",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T15:00:32.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-community-management-hamburg-247693"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3ItdGhlcm1hbC1lbmdpbmVlci1vdHRvYnJ1bm4tYmF2YXJpYS0zMzI1NTl8c2VuaW9yIHRoZXJtYWwgZW5naW5lZXIgKG0vZi9kKXxpc2FyYWVyb3NwYWNl",
+      "title": "Senior Thermal Engineer (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T14:55:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-thermal-engineer-ottobrunn-bavaria-332559"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3ItcXVhbGl0eS1lbmdpbmVlci1wcm9wdWxzaW9uLW90dG9icnVubi1iYXZhcmlhLXBhcnNkb3JmLWJhdmFyaWEtODQ5Mzh8c2VuaW9yIHF1YWxpdHkgZW5naW5lZXIgcHJvcHVsc2lvbiAobS9mL2QpfGlzYXJhZXJvc3BhY2U",
+      "title": "Senior Quality Engineer Propulsion (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T14:55:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-quality-engineer-propulsion-ottobrunn-bavaria-parsdorf-bavaria-84938"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9zZW5pb3ItbGF1bmNoLW9wZXJhdGlvbnMtZW5naW5lZXItb3R0b2JydW5uLWJhdmFyaWEtMjI2NzI2fHNlbmlvciBsYXVuY2ggb3BlcmF0aW9ucyBlbmdpbmVlciAobS9mL2QpfGlzYXJhZXJvc3BhY2U",
+      "title": "Senior Launch Operations Engineer (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T14:55:17.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-launch-operations-engineer-ottobrunn-bavaria-226726"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvaXNhcmFlcm9zcGFjZS9hdmlvbmljcy1lbmdpbmVlci10aHJ1c3QtdmVjdG9yLWNvbnRyb2wtYWN0dWF0b3Itb3R0b2JydW5uLWJhdmFyaWEtNDM1NjA2fGF2aW9uaWNzIGVuZ2luZWVyIC0gdGhydXN0IHZlY3RvciBjb250cm9sIGFjdHVhdG9yIChtL2YvZCl8aXNhcmFlcm9zcGFjZQ",
+      "title": "Avionics Engineer - Thrust Vector Control Actuator (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T14:55:16.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/avionics-engineer-thrust-vector-control-actuator-ottobrunn-bavaria-435606"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpbWF0ZS9pbnRlcmltLXByb2plY3Qtc2VuaW9yLWRldm9wcy1jb25zdWx0YW50LWJlcmxpbi1ocS00MTIyOTV8aW50ZXJpbSBwcm9qZWN0IC0gc2VuaW9yIGRldm9wcyBjb25zdWx0YW50IChmL20vZCl8Y2xpbWF0ZQ",
+      "title": "Interim project - Senior DevOps Consultant (f/m/d)",
+      "company": "Climate",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T14:09:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/interim-project-senior-devops-consultant-berlin-hq-412295"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvY2xpbWF0ZS9kYXRhLWVuZ2luZWVyLWJlcmxpbi1ocS05NjkxMXxkYXRhIGVuZ2luZWVyIChmL20vZCl8Y2xpbWF0ZQ",
+      "title": "Data Engineer (f/m/d)",
+      "company": "Climate",
+      "location": "Berlin HQ",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T14:09:03.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-96911"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9mYXN0bmVkL3Nlbmlvci1leHBhbnNpb24tbWFuYWdlci1mcmFuY2UtZGV2ZWxvcHBldXJzZS1pbW1vYmlsaWVyLXNlbmlvci1zdWQtdG91bG91c2UtbW9udHBlbGxpZXItOTE5MDZ8c2VuaW9yIGV4cGFuc2lvbiBtYW5hZ2VyIGZyYW5jZSAvIGTDqXZlbG9wcGV1ci5zZSBpbW1vYmlsaWVyIHNlbmlvciAtIHN1ZHxmYXN0bmVk",
+      "title": "Senior Expansion manager France / Développeur.se Immobilier senior - Sud",
+      "company": "Fastned",
+      "location": "Toulouse, Montpellier, Occitanie, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T13:30:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/fastned/senior-expansion-manager-france-developpeurse-immobilier-senior-sud-toulouse-montpellier-91906"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvc2VuaW9yLXNvZnR3YXJlLXFhLWVuZ2luZWVyLWxvbmRvbi0zNDAyODR8c2VuaW9yIHNvZnR3YXJlIHFhIGVuZ2luZWVyfGNvbWluZA",
+      "title": "Senior Software QA Engineer",
+      "company": "Comind",
+      "location": "London, UK",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T12:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/senior-software-qa-engineer-london-340284"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvYmFja2VuZC1lbmdpbmVlci1nb2xhbmctYmFuay1iYWxhbmNlLWJlcmxpbi00NzIxNTB8YmFja2VuZCBlbmdpbmVlciAoZ29sYW5nKSAtIGJhbmsgYmFsYW5jZXxzdW11cA",
+      "title": "Backend Engineer (Golang) - Bank Balance",
+      "company": "sumup",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T11:55:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-bank-balance-berlin-472150"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGV4YS9zb2x1dGlvbi1lbmdpbmVlci1wdWJsaWMtc2VjdG9yLXVrLWxvbmRvbi00NDY2ODV8c29sdXRpb24gZW5naW5lZXIgIC0gcHVibGljIHNlY3RvciAgLSB1a3xxdWFudGV4YQ",
       "title": "Solution Engineer  - Public Sector  - UK",
@@ -346,19 +476,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/resolvetosavelives/senior-technical-advisor-data-use-and-decision-science-remote-us-uk-france-drc-us-uk-drc-131243"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdW50ZXJuZWhtZXJ0dW0tZ2dtYmgvdXZjLXBhcnRuZXJzLWRhdGEtYWktbWFzdGVyLXRoZXNpcy1pbnRlcm5zaGlwLW11bmNoZW4ta3JlYXRpdnF1YXJ0aWVyLTE2NDh8dXZjIHBhcnRuZXJzOiBkYXRhICYgYWkgLSBtYXN0ZXIgdGhlc2lzIC8gaW50ZXJuc2hpcCAoZi9tL3gpfHVudGVybmVobWVydHVtIGdnbWJo",
-      "title": "UVC Partners: Data & AI - Master Thesis / Internship (f/m/x)",
-      "company": "UnternehmerTUM gGmbH",
-      "location": "München Kreativquartier",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T20:09:45.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/uvc-partners-data-ai-master-thesis-internship-munchen-kreativquartier-1648"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9yaWxsZXQvcmVtb3RlLWRlcGxveW1lbnQtbGVhZC1lcnAtc29sdXRpb25zLTc2MTA4fGRlcGxveW1lbnQgbGVhZCAtIGVycCBzb2x1dGlvbnN8cmlsbGV0",
       "title": "Deployment Lead - ERP Solutions",
       "company": "Rillet",
@@ -422,6 +539,19 @@
       "postedDate": "2026-09-06T19:40:03.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/rillet/remote-deployment-lead-accounting-solutions-195709"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9kZWVwaGVhbHRoL2RhdGEtbWFuYWdlci1wYXJpcy00Nzg1MDV8ZGF0YSBtYW5hZ2VyfGRlZXBoZWFsdGg",
+      "title": "Data Manager",
+      "company": "DeepHealth",
+      "location": "Paris, Île-de-France, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-06T16:30:37.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-478505"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1sb25kb24tMjM3MTMyfHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyfGludGVyY29t",
@@ -539,32 +669,6 @@
       "postedDate": "2026-09-05T21:55:11.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/senior-product-designer-21354"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9mb3JtMy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItZ28tNDAyMTE3fHNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciAoZ28pfGZvcm0z",
-      "title": "Senior Software Engineer (Go)",
-      "company": "Form3",
-      "location": "Unspecified",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T21:55:06.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-402117"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9yb2t1L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1mdWxsLXN0YWNrLWNhbWJyaWRnZS0xNjk2MDh8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyLCBmdWxsIHN0YWNrfHJva3U",
-      "title": "Senior Software Engineer, Full Stack",
-      "company": "Roku",
-      "location": "Cambridge",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-05T12:55:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-full-stack-cambridge-169608"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg3MjE5MDAzP2doX2ppZD03OTg3MjE5MDAzfGVtYyBjb21wbGlhbmNlIGVuZ2luZWVyfG5ldXJhbGluaw",

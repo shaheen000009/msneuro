@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:58:13.363Z",
+  "generatedAt": "2026-09-09T20:27:07.790Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,123 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9meXhlci9zZW5pb3ItY3VzdG9tZXItc3VjY2Vzcy1tYW5hZ2VyLWxvbmRvbi0xODQwODV8c2VuaW9yIGN1c3RvbWVyIHN1Y2Nlc3MgbWFuYWdlcnxmeXhlcg",
+      "title": "Senior Customer Success Manager",
+      "company": "Fyxer",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T18:40:11.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/senior-customer-success-manager-london-184085"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb3RvcndheS9zZW5pb3ItZGV2ZWxvcGVyLWV4cGVyaWVuY2UtcGxhdGZvcm0tZW5naW5lZXItbG9uZG9uLTQxNTM0NHxzZW5pb3IgZGV2ZWxvcGVyIGV4cGVyaWVuY2UgcGxhdGZvcm0gZW5naW5lZXJ8bW90b3J3YXk",
+      "title": "Senior Developer Experience Platform Engineer",
+      "company": "Motorway",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T18:40:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-developer-experience-platform-engineer-london-415344"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb3RvcndheS9zZW5pb3ItZGV2ZWxvcGVyLWV4cGVyaWVuY2Utc2VjdXJpdHktZW5naW5lZXItbG9uZG9uLTE3NTU5MXxzZW5pb3IgZGV2ZWxvcGVyIGV4cGVyaWVuY2Ugc2VjdXJpdHkgZW5naW5lZXJ8bW90b3J3YXk",
+      "title": "Senior Developer Experience Security Engineer",
+      "company": "Motorway",
+      "location": "London",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T18:40:04.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-developer-experience-security-engineer-london-175591"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L2Fzc29jaWF0ZS1hY2NvdW50LWV4ZWN1dGl2ZS1nZXJtYW55LWJlcmxpbi0yOTM4Nzl8YXNzb2NpYXRlIGFjY291bnQgZXhlY3V0aXZlIGdlcm1hbnkgKGYvbS9kKXx1cHZlc3Q",
+      "title": "Associate Account Executive Germany (f/m/d)",
+      "company": "Upvest",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T17:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/upvest/associate-account-executive-germany-berlin-293879"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L25ldHdvcmstaW50ZXJuLWJlcmxpbi0zMDc5Mzl8bmV0d29yayBpbnRlcm4gKGYvbS9kKXx1cHZlc3Q",
+      "title": "Network Intern (f/m/d)",
+      "company": "Upvest",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Internship",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T17:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/upvest/network-intern-berlin-307939"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvdXB2ZXN0L2dlcm1hbi10YXgtc3BlY2lhbGlzdC1iZXJsaW4tNDk4Mzc4fGdlcm1hbiB0YXggc3BlY2lhbGlzdCAoZi9tL2QpfHVwdmVzdA",
+      "title": "German Tax Specialist (f/m/d)",
+      "company": "Upvest",
+      "location": "Berlin",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T17:40:09.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/upvest/german-tax-specialist-berlin-498378"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMva2xlaW5lcy1rcmFmdHdlcmstZGUtZ21iaC9zZW5pb3Itc2VvLW1hbmFnZXJpbi1pLXNlby1nZW8tYWktc2VhcmNoLWktZS1jb21tZXJjZS1oeWJyaWQtYWNoaW0tYWNoaW0tYmVpLWJyZW1lbi00ODAyMTJ8KHNlbmlvcikgc2VvIG1hbmFnZXI6aW4gaSBzZW8sIGdlbyAmIGFpIHNlYXJjaCBpIGUtY29tbWVyY2UsIGh5YnJpZCwgYWNoaW18a2xlaW5lcyBrcmFmdHdlcmsgZGUgZ21iaA",
+      "title": "(Senior) SEO Manager:in I SEO, GEO & AI Search I E-Commerce, hybrid, Achim",
+      "company": "Kleines Kraftwerk DE GmbH",
+      "location": "Achim (bei Bremen)",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T17:09:54.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.com/jobs/companies/kleines-kraftwerk-de-gmbh/senior-seo-managerin-i-seo-geo-ai-search-i-e-commerce-hybrid-achim-achim-bei-bremen-480212"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256b3JlZmVycmFscy9zZW5pb3ItZGF0YS1hbmFseXN0LWZpbmFuY2lhbC1oZWFsdGgtY2FyZGlmZi00MTUxOTV8c2VuaW9yIGRhdGEgYW5hbHlzdCwgZmluYW5jaWFsIGhlYWx0aHxtb256b3JlZmVycmFscw",
+      "title": "Senior Data Analyst, Financial Health",
+      "company": "Monzoreferrals",
+      "location": "Cardiff",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T15:55:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-data-analyst-financial-health-cardiff-415195"
+    },
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9tb256b3JlZmVycmFscy9kYXRhLXNjaWVuY2UtbWFuYWdlci1jYXJkaWZmLTE2NzcyfGRhdGEgc2NpZW5jZSBtYW5hZ2VyfG1vbnpvcmVmZXJyYWxz",
+      "title": "Data Science Manager",
+      "company": "Monzoreferrals",
+      "location": "Cardiff",
+      "workModel": "On-site",
+      "opportunityType": "Unspecified",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-09T15:55:30.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/data-science-manager-cardiff-16772"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvYW5hcGxhbi9lbnRlcnByaXNlLWFjY291bnQtZXhlY3V0aXZlLTczNjgyfGVudGVycHJpc2UgYWNjb3VudCBleGVjdXRpdmV8YW5hcGxhbg",
       "title": "Enterprise Account Executive",
@@ -593,19 +710,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/fastned/senior-expansion-manager-france-developpeurse-immobilier-senior-sud-toulouse-montpellier-91906"
     },
     {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9jb21pbmQvc2VuaW9yLXNvZnR3YXJlLXFhLWVuZ2luZWVyLWxvbmRvbi0zNDAyODR8c2VuaW9yIHNvZnR3YXJlIHFhIGVuZ2luZWVyfGNvbWluZA",
-      "title": "Senior Software QA Engineer",
-      "company": "Comind",
-      "location": "London, UK",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-08T12:40:09.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/senior-software-qa-engineer-london-340284"
-    },
-    {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvc3VtdXAvYmFja2VuZC1lbmdpbmVlci1nb2xhbmctYmFuay1iYWxhbmNlLWJlcmxpbi00NzIxNTB8YmFja2VuZCBlbmdpbmVlciAoZ29sYW5nKSAtIGJhbmsgYmFsYW5jZXxzdW11cA",
       "title": "Backend Engineer (Golang) - Bank Balance",
       "company": "sumup",
@@ -617,71 +721,6 @@
       "postedDate": "2026-09-08T11:55:04.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-bank-balance-berlin-472150"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGV4YS9zb2x1dGlvbi1lbmdpbmVlci1wdWJsaWMtc2VjdG9yLXVrLWxvbmRvbi00NDY2ODV8c29sdXRpb24gZW5naW5lZXIgIC0gcHVibGljIHNlY3RvciAgLSB1a3xxdWFudGV4YQ",
-      "title": "Solution Engineer  - Public Sector  - UK",
-      "company": "Quantexa",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-08T09:40:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/solution-engineer-public-sector-uk-london-446685"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9xdWFudGV4YS9zYWxlcy1kaXJlY3Rvci1pbnN1cmFuY2UtdWstbG9uZG9uLTYxODc1fHNhbGVzIGRpcmVjdG9yLCBpbnN1cmFuY2UgIC0gdWt8cXVhbnRleGE",
-      "title": "Sales Director, Insurance  - UK",
-      "company": "Quantexa",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-08T09:40:07.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/sales-director-insurance-uk-london-61875"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jb20vam9icy9jb21wYW5pZXMvZmFzdHIvcHJvamVrdGVudHdpY2tsZXItZW5lcmdpZWNvbnRyYWN0aW5nLWR1c3NlbGRvcmYtMjU5NTkyfHByb2pla3RlbnR3aWNrbGVyIChtL3cvZCkgZW5lcmdpZWNvbnRyYWN0aW5nfGZhc3Ry",
-      "title": "Projektentwickler (m/w/d) Energiecontracting",
-      "company": "FASTR",
-      "location": "Düsseldorf",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-08T08:00:39.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.com/jobs/companies/fastr/projektentwickler-energiecontracting-dusseldorf-259592"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zZWNjbC9lbmdpbmVlcmluZy1tYW5hZ2VyLWxvbmRvbi0yNzY2ODh8ZW5naW5lZXJpbmcgbWFuYWdlcnxzZWNjbA",
-      "title": "Engineering manager",
-      "company": "Seccl",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-08T03:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/engineering-manager-london-276688"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9zZWNjbC9ncm91cC1wcm9kdWN0LW1hbmFnZXItbG9uZG9uLTMzNTk4M3xncm91cCBwcm9kdWN0IG1hbmFnZXJ8c2VjY2w",
-      "title": "Group product manager",
-      "company": "Seccl",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-08T03:40:05.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/group-product-manager-london-335983"
     },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9kYXRhZG9nL3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1kaXN0cmlidXRlZC1zeXN0ZW1zLWJvcmRlYXV4LWdyZW5vYmxlLWx5b24tbW9udHBlbGxpZXItbmFudGVzLXBhcmlzLXNvcGhpYS1hbnRpcG9saXMtNTM3NDB8c2VuaW9yIHNvZnR3YXJlIGVuZ2luZWVyIC0gZGlzdHJpYnV0ZWQgc3lzdGVtc3xkYXRhZG9n",
@@ -812,19 +851,6 @@
       "postedDate": "2026-09-06T19:40:03.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/rillet/remote-deployment-lead-accounting-solutions-195709"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9kZWVwaGVhbHRoL2RhdGEtbWFuYWdlci1wYXJpcy00Nzg1MDV8ZGF0YSBtYW5hZ2VyfGRlZXBoZWFsdGg",
-      "title": "Data Manager",
-      "company": "DeepHealth",
-      "location": "Paris, Île-de-France, France",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T16:30:37.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-478505"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg3MjE5MDAzP2doX2ppZD03OTg3MjE5MDAzfGVtYyBjb21wbGlhbmNlIGVuZ2luZWVyfG5ldXJhbGluaw",
@@ -1085,6 +1111,19 @@
       "postedDate": "2026-07-09T19:23:33.000Z",
       "applyBy": null,
       "url": "https://www.neuropace.com/about-neuropace/neuropace-careers/?gh_jid=6110060004"
+    },
+    {
+      "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MDg4MDAzP2doX2ppZD03Nzk5MDg4MDAzfG5ldXJvc3VyZ2ljYWwgcm9ib3Qgb3BlcmF0b3J8bmV1cmFsaW5r",
+      "title": "Neurosurgical Robot Operator",
+      "company": "Neuralink",
+      "location": "Austin, Texas, United States",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Neuralink Jobs",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink",
+      "postedDate": "2026-07-08T18:30:48.000Z",
+      "applyBy": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7799088003?gh_jid=7799088003"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83Nzk5MDYzMDAzP2doX2ppZD03Nzk5MDYzMDAzfGVudmlyb25tZW50YWwgaGVhbHRoIGFuZCBzYWZldHkgc3BlY2lhbGlzdHxuZXVyYWxpbms",

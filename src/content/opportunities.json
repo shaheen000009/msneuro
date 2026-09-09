@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:44:53.712Z",
+  "generatedAt": "2026-09-09T03:11:56.770Z",
   "sources": [
     "Remotive",
     "Neuralink Jobs",
@@ -7,6 +7,19 @@
     "Arbeitnow"
   ],
   "items": [
+    {
+      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9pbnN0aXR1dC1taW5lcy10ZWxlY29tL3Bvc3QtZG9jdG9yYW50ZS1vdS1wb3N0LWRvY3RvcmFudC1lbi1pbmZvcm1hdGlxdWUtY2RkLTEyLW1vaXMtc2FpbnQtZXRpZW5uZS0xMTkzMTR8cG9zdC1kb2N0b3JhbnRlIG91IHBvc3QtZG9jdG9yYW50IGVuIGluZm9ybWF0aXF1ZSAtIGNkZCAxMiBtb2lzfGluc3RpdHV0IG1pbmVzLXTDqWzDqWNvbQ",
+      "title": "Post-doctorante ou post-doctorant en Informatique - CDD 12 Mois",
+      "company": "Institut Mines-Télécom",
+      "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
+      "workModel": "On-site",
+      "opportunityType": "Full-time",
+      "source": "Arbeitnow",
+      "sourceUrl": "https://www.arbeitnow.com",
+      "postedDate": "2026-09-08T22:30:25.000Z",
+      "applyBy": null,
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-informatique-cdd-12-mois-saint-etienne-119314"
+    },
     {
       "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9wbm8taW5ub3ZhdGlvbi9zZW5pb3ItaW5ub3ZhdGlvbi1jb25zdWx0YW50LWV1LXByb2plY3RzLWZyYW5jZS05MTEwNHxzZW5pb3IgaW5ub3ZhdGlvbiBjb25zdWx0YW50IC0gZXUgcHJvamVjdHN8cG5vIGlubm92YXRpb24",
       "title": "Senior Innovation Consultant - EU Projects",
@@ -617,58 +630,6 @@
       "postedDate": "2026-09-06T16:30:37.000Z",
       "applyBy": null,
       "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-478505"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1sb25kb24tMjM3MTMyfHNlbmlvciBwcm9kdWN0IG1hcmtldGluZyBtYW5hZ2VyfGludGVyY29t",
-      "title": "Senior Product Marketing Manager",
-      "company": "intercom",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T15:55:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-237132"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9pbnRlcmNvbS9zZW5pb3ItcHJvZHVjdC1tYXJrZXRpbmctbWFuYWdlci1sb25kb24tNTU4OTR8c2VuaW9yIHByb2R1Y3QgbWFya2V0aW5nIG1hbmFnZXJ8aW50ZXJjb20",
-      "title": "Senior Product Marketing Manager",
-      "company": "intercom",
-      "location": "London",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T15:55:16.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-55894"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5mci9qb2JzL2NvbXBhbmllcy9naXNtYXJ0L3JlbW90ZS1iaWxsaW5nLW1hbmFnZXItZml0bWUtMjgxNDM4fGJpbGxpbmcgbWFuYWdlciAoZml0bWUpfGdpc21hcnQ",
-      "title": "Billing Manager (FitMe)",
-      "company": "Gismart",
-      "location": "Remote",
-      "workModel": "On-site",
-      "opportunityType": "Full-time",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T10:40:11.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-billing-manager-fitme-281438"
-    },
-    {
-      "id": "YXJiZWl0bm93fGh0dHBzOi8vd3d3LmFyYmVpdG5vdy5jby51ay9qb2JzL2NvbXBhbmllcy9hbmFwbGFuL2Fzc29jaWF0ZS1iYWNrZW5kLXNvZnR3YXJlLWVuZ2luZWVyLXB5dGhvbi1tYW5jaGVzdGVyLTQzMDE0N3xhc3NvY2lhdGUgYmFja2VuZCBzb2Z0d2FyZSBlbmdpbmVlciAocHl0aG9uKXxhbmFwbGFu",
-      "title": "Associate Backend Software Engineer (Python)",
-      "company": "Anaplan",
-      "location": "Manchester",
-      "workModel": "On-site",
-      "opportunityType": "Unspecified",
-      "source": "Arbeitnow",
-      "sourceUrl": "https://www.arbeitnow.com",
-      "postedDate": "2026-09-06T09:55:04.000Z",
-      "applyBy": null,
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147"
     },
     {
       "id": "bmV1cmFsaW5rIGpvYnN8aHR0cHM6Ly9ib2FyZHMuZ3JlZW5ob3VzZS5pby9uZXVyYWxpbmsvam9icy83OTg3MjE5MDAzP2doX2ppZD03OTg3MjE5MDAzfGVtYyBjb21wbGlhbmNlIGVuZ2luZWVyfG5ldXJhbGluaw",
